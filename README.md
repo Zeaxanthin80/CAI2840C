@@ -1,7 +1,7 @@
 # CAI2840C
 ## Introduction to Computer Vision
 
-This repository contains Jupyter Notebooks and resources for the **CAI2840C: Introduction to Computer Vision** course that I'm taking at Miami Dade College.
+This repository contains Jupyter Notebooks and resources for the **CAI2840C: Introduction to Computer Vision** course that I'm taking with Dr. Ernesto Lee at Miami Dade College.
 
 ## 📖 Course Overview
 
