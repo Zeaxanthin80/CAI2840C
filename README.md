@@ -61,5 +61,17 @@ pip install -r requirements.txt
 ### 📦 Large datasets are not included in the repository. 
 You can download them from the course materials or specified sources.
 
+### 🔗 Colab Link 
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+To add the colab link so that it appears at the top of the notebook in the GitHub code preview page follow the steps below.
+
+Steps to save file with the colab link in GitHub
+
+1. Open the file in colab
+2. Rename the file using COURSE_YYYYMMDD_Week_XX.ipynb format
+3. Save to GitHub via the File > Save dialog box and make sure the "Include a link to Colab" box is selected.
+4. (Optional) Initiate a Pull request with VS Code to work on file locally.
+
 ## 📜 License
 This repository is intended for personal and educational use only. All course-related materials belong to Miami Dade College and should be used in accordance with the institution's academic policies.
