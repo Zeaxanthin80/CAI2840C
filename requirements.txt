@@ -1,10 +1,16 @@
-numpy
+numpy>=1.20.0
 pandas
-matplotlib
+matplotlib>=3.4.0
 seaborn
 scikit-learn
-opencv-python
+opencv-python>=4.5.0
 Pillow
 tensorflow
 torch
-jupyter  # Needed to run Jupyter kernels in VS Code
+jupyter>=1.0.0
+SpeechRecognition 
+moviepy
+imageio-ffmpeg
+imageio==2.4.1
+moviepy
+ipython>=7.0.0
