@@ -1,0 +1,5 @@
+{
+    "chat.agent.maxRequests": 10,
+    "github.copilot.chat.codesearch.enabled": true,
+    "python.analysis.generateWithTypeAnnotation": true
+}
